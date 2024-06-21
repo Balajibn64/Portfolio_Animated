@@ -50,6 +50,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: project3,
+    link : "https://balajibn64.github.io/Portfolio_Animated/",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "TailwindCSS", "React", "vite"],
